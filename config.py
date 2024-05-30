@@ -1,0 +1,5 @@
+MODIS_SATELLITE: str = 'MODIS'
+SHORT_NAME_MODIS_500_DAILY: str = 'MOD09GA'
+
+DATA_LOCATION: str = 'data/test_bulk_download'
+SHORT_NAME_MODGQ: str = 'MOD09GQ'
